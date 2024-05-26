@@ -168,11 +168,5 @@
         }
       ]
     }
-  ],
-  "routes": [
-    {
-      "src": "/api/(.*)",
-      "dest": "https://back.beanljun.top.com/api/$1"
-    }
   ]
 }
